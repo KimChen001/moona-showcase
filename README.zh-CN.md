@@ -51,6 +51,12 @@ Demo 仍在迭代，AI 可能出错，服务受使用额度限制。塔罗与星
 
 邮箱账户、登录会话和使用计数保存在服务器，相关编号可能关联到账户，并非完全匿名。接收产品更新需要单独主动勾选。分享个人信息前，请阅读[当前隐私说明](https://moona.fun/about#sent-title)。
 
+## 下一步：桌上的 MOONA
+
+<p align="center"><img src="assets/desk-companion/hero.png" width="300" alt="MOONA 桌面伴侣概念图：乳白色硅胶小球，圆形屏幕，放在底座上" /></p>
+
+我们正在设计一个手掌大小的 MOONA：乳白色软硅胶外壳，圆形屏幕当脸，可以直接和它说话。现在还在设计阶段：**[看看桌面伴侣](desk-companion.zh-CN.md)**。
+
 ## 欢迎一起打磨 MOONA
 
 使用中的小发现、希望遇见的新功能，或想对我们说的话，都欢迎写给我们：**[hello@moona.fun](mailto:hello@moona.fun)**。

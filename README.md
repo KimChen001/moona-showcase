@@ -68,6 +68,12 @@ MOONA combines a responsive Next.js interface, astronomical calculations, a cura
 
 This repository is the public product showcase. It contains presentation material and product screenshots; the application source and operational data are maintained separately.
 
+## Next: MOONA on your desk
+
+<p align="center"><img src="assets/desk-companion/hero.png" width="300" alt="MOONA Desk Companion concept: a milk-white silicone orb with a round screen, on its dock" /></p>
+
+We are designing a palm-sized MOONA in soft, milk-white silicone, with a round screen for a face and a voice you can talk to. It is still in design: **[see the desk companion](desk-companion.md)**.
+
 ## Help shape the next chapter
 
 What felt useful? Where did something feel slow, confusing, or missing? We'd love to hear from you.
